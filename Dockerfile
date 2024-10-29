@@ -7,5 +7,5 @@ COPY . .
 # Compile the Java program
 RUN javac Sample11.java
 # Command to run the program
-CMD ["java", "Sample"]
+CMD ["java", "Sample11"]
 
